@@ -24,7 +24,7 @@ go.work
 
 #configs
 .env
-.toml
+.air.toml
 
 #misc 
 LICENSE
